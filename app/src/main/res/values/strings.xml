@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SimpleRecipeApp</string>
+
+    <string-array name="dish_types">
+        <item>Appetizer</item>
+        <item>Main Course</item>
+        <item>Dessert</item>
+    </string-array>
+
+    <string-array name="recipes_appetizer">
+        <item>Bruschetta: Bread, tomatoes, basil, garlic, olive oil.</item>
+        <item>Stuffed Mushrooms: Mushrooms, cheese, breadcrumbs, garlic.</item>
+        <item>Deviled Eggs: Eggs, mayonnaise, mustard, paprika.</item>
+    </string-array>
+
+    <string-array name="recipes_main_course">
+        <item>Grilled Chicken: Chicken, olive oil, lemon, herbs.</item>
+        <item>Pasta Primavera: Pasta, vegetables, olive oil, parmesan.</item>
+        <item>Beef Tacos: Beef, tortillas, cheese, lettuce, salsa.</item>
+    </string-array>
+
+    <string-array name="recipes_dessert">
+        <item>Chocolate Cake: Flour, cocoa, sugar, eggs, butter.</item>
+        <item>Fruit Salad: Assorted fruits, honey, lemon juice.</item>
+        <item>Ice Cream Sundae: Ice cream, chocolate sauce, nuts, cherries.</item>
+    </string-array>
+</resources>
